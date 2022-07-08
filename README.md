@@ -8,7 +8,6 @@
 - Fun fact: I play basketball and guitar
 
 ## GITHUB STATS
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeM101)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47" src="(https://github-readme-stats.vercel.app/api?username=GeorgeM101)](https://github.com/anuraghazra/github-readme-stats"/ >
+<img align="left" width="47" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeM101&langs_count=8"/>
 
-## LANGUAGES
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeM101&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
